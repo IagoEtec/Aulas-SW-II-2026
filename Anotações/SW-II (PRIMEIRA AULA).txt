@@ -1,0 +1,49 @@
+Objetivos da Aula
+
+1- Entender o conceito de aplicações web e sistemas distribuidos
+O que são Aplicações Web? E para que serve?
+Um sistema acessado por meio de um navegador, sem necessidade de instalação do dispositivo do usuário. Elas são hospedadas em servidores e podem ter funconalidades dinâmicas, como login, interação com banco de dados e processamento de informações
+
+ex: Redes sociais, E-commerce, Aplicativos bancários
+
+
+O que são sistemas distribuidos?
+Um sistema distribuido é um conjunto de computadores interconectados que compartilham recursos e processam dados de forma cooperativo. Esse modelo permite escalabilidade e maior disponibilidade de serviços
+
+ex: Netflix, Jogos online Multiplayer, Aplicações que utilizam serviço de nuvem (Google Drive, One Drive)
+
+
+
+2- Diferenciar arquitetura monolítica e microsserviços
+O que é arquitetura monolitica?
+é quando todos os componentes de uma aplicação (interface do usuário, lógica de negócios e acesso a dados) são unificados em uma única base de código (backend) e implantados como uma única unidade.
+
+PONTOS FORTES: Fácil de desenvolver no início, e simples para pequenas aplicações
+
+PONTOS FRACO: Dificuldade para escalar, e se uma parte falhar, toda a aplicação pode ser comprometida
+
+
+O que é microsserviços?
+estilo de arquitetura de software que estrutura uma aplicação como uma coleção de serviços pequenos, autônomos e fracamente acoplados, organizados em torno de recursos de negócios. Cada serciço pode ser desenvolvido e escalado separadamente
+
+PONTOS FORTES: Maior escalabilidade, e manutenção facilitada
+
+PONTOS FRACOS: Maior complexidade na comunicação entre serviços, e possui maior necessidade de gerenciamento.
+
+
+
+3- Conhecer os conceitos básicos do PHP e preparar o ambiente de desenvolvimento
+
+COMENTARIOS: O que é API?
+API significa Interface de Programação de Aplicações (Application Programming Interface). É um conjunto de normas que permite que dois softwares conversem entre si, trocando dados e funcionalidades sem que um precise conhecer os detalhes internos do outro. Funciona como uma ponte ou garçom, recebendo um pedido e trazendo a resposta.  
+
+
+ATIVIDADE: Elaborar uma pesquisa sobre os seguintes assuntos...
+O que são Aplicações Web?
+O que são Sistemas Destribuidos?
+O que é Arquitetura Monolítica?
+O que é Arquitetura de Microsserviços?
+
+Utilizar formatação ABNT: (Capa, Sumário, Objetivo, Textual, Conclusão, Referências Bibliográficas)
+
+data de entrega: 24/02/2026

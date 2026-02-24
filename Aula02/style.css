@@ -1,0 +1,25 @@
+body {
+    background-color: #000; /* fundo preto */
+    color: #ff0000; /* texto vermelho */
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid #ff0000;
+    width: 80%;
+}
+
+h1 {
+    color: #ff3333;
+}
+
+.container {
+    background-color: #111;
+    border: 2px solid #ff0000;
+    padding: 20px;
+    margin: 20px auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #ff0000;
+}

@@ -1,0 +1,54 @@
+body {
+    background-image: url("esmegba.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+/* Caixa principal */
+.container {
+    background-color: rgba(0, 39, 118, 0.9);
+    border: 5px solid #ffdf00;
+    border-radius: 15px;
+    padding: 30px;
+    width: 60%;
+    margin: auto;
+    box-shadow: 0 0 20px #009c3b;
+}
+
+/* Títulos */
+h1 {
+    color: #ffdf00;
+    text-shadow: 2px 2px #009c3b;
+}
+
+/* Resultado */
+.resultado {
+    background-color: #009c3b;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 2px solid #ffdf00;
+}
+
+/* Botão patriota */
+button {
+    background-color: #ffdf00;
+    color: #002776;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #009c3b;
+    color: white;
+}
